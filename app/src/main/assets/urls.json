@@ -1,5 +1,4 @@
 {
-	"version": 1,
 	"jenkins": {
 		"nukkit": [
 			"MengCraft|http://ci.mengcraft.com:8080/job/nukkit/",
@@ -7,18 +6,10 @@
 			"ZXDA|https://jenkins.zxda.net/job/Nukkit/"
 		],
 		"pocketmine": [
-			"[Suggested]GenisysPro (ZXDA)|https://jenkins.zxda.net/job/GenisysPro/",
-			"Apollo (ZXDA)|https://jenkins.zxda.net/job/Apollo-Legacy/",
-			"Leveryl (Official)|http://cortexpe.ml:8080/job/Leveryl/",
-			"Leveryl (ZXDA)|https://jenkins.zxda.net/job/Leveryl/",
-			"Tesseract (ZXDA)|https://jenkins.zxda.net/job/Tesseract/",
-			"[x64]PMMP (Official)|https://jenkins.pmmp.gq/job/PocketMine-MP/",
-			"[x64]PMMP (ZXDA)|https://jenkins.zxda.net/job/PocketMine-MP/",
-			"[Discontinued]BlueLight (ZXDA)|https://jenkins.zxda.net/job/BlueLight/",
-			"[Discontinued]Elywing (ZXDA)|https://jenkins.zxda.net/job/Elywing/",
-			"[Discontinued]Genisys (ZXDA)|https://jenkins.zxda.net/job/Genisys/",
-			"[Discontinued]ClearSky-PHP7 (ZXDA)|https://jenkins.zxda.net/job/ClearSky-PHP7/",
-			"[Discontinued]ClearSky-PHP5 (ZXDA)|https://jenkins.zxda.net/job/ClearSky-PHP5/"
+			"PocketMine-MP (pmmp/x64)|https://jenkins.pmmp.io/job/PocketMine-MP/",
+			"Altay (TuranicTeam/x64)|https://turanic.io:8181/job/Altay/",
+			"BlueLight (BlueLightJapan/x64)|http://jenkins.zxda.net/job/BlueLight/",
+			"Turanic (TuranicTeam/x64)|http://jenkins.zxda.net/job/Turanic/"
 		]
 	},
 	"source_code": "https://github.com/fengberd/PocketServer",
